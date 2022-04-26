@@ -1,0 +1,129 @@
+#firstDiv {
+background-color: #1F2937;
+width: 1300px;
+height: 400px;
+}
+#smallHeader {
+display: flex;
+justify-content: right;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+margin: 10px;
+color : white;
+}
+#mainHeader {
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 48px;
+color : white;
+}
+#secondaryHeader {
+color : white;
+}
+#firstButton {
+width: 50px;
+height: 30px;
+border-radius: 5px;
+background-color: #3882F6
+}
+#imgDiv {
+    display: flex;
+background-color: grey;
+width: 250px;
+height: 190px;
+justify-content: center;
+align-items: center;
+text-align: center;
+position: absolute;
+top: 90px;
+right: 30px;
+}
+#firsth5 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color : white;
+position: absolute;
+top: 0px;
+right: 230px;
+}
+#secondh5 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color : white;
+    position: absolute;
+    top: 0px;
+    right: 150px;
+}
+#thirdh5 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color : white;
+    position: absolute;
+    top: 0px;
+    right: 70px;
+}
+#secondDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+width: 1300px;
+height: 400px;
+}
+
+
+#smallDiv1 {
+float: left;
+}
+#smallDiv2 {
+float: left;
+}
+#smallDiv3 { 
+float: left;
+}
+#smallDiv4 {
+float: left;
+}
+.smallDivs {
+    border-radius: 13px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+border: 3px solid blue;
+width: 150px;
+height: 150px;
+margin: 10px;
+}
+#beginning {
+color: white;
+position: absolute;
+bottom: 400px;
+right: 600px;
+}
+#thirdDiv {
+    width: 1300px;
+    height: 400px;
+    background-color: grey;
+}
+#quoteheader {
+    position: absolute;
+    text-align: center;
+font-family: 'light italic', monospace;
+}
+#authorname {
+    position: absolute;
+top: 1000px;
+right: 50px;
+font-family: 'italic'
+}
+#lastDiv {
+    margin: 10px;
+width: 1300px;
+height: 200px;
+background-color: #3882F6;
+border-radius: 13px;
+}
+#help {
+color: white;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#theLast {
+background-color: #3882F6;
+border-top: 1px solid white;
+width: 50px;
+height: 20px;
+border-radius: 13px;
+}
